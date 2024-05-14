@@ -1,6 +1,7 @@
 <h1>Hi, I'm Dragos, nice to meet you! 👋</h1>
-<h2>Here you can find my personal portfolio website:</h2>
+<h2>Here you can find my personal portfolio website:
 <a href="https://dragosgrigoriu.github.io/portfoliowebsite/" target="_blank">Personal Portfolio Website</a>
+</h2>
 <h3>A budding front-end developer fueled by passion and eager to grow</h3>
 <img align="right" alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47t8gr32kdmumuq9ab1mz4921vnafqvgdzwokk6jwt&rid=giphy.gif&ct=g" width="500" height="300" />
 
